@@ -1,5 +1,9 @@
 ![Law](https://github.com/sourceduty/Law_Standard/assets/123030236/6c9550bb-19f3-47d9-b589-10bdc716cf37)
 
+> Analyze and improve national deviance to align with standard international laws.
+
+#
+
 [Law Standard](https://chat.openai.com/g/g-GAwgXgXN1-law-standard) focuses on analyzing and improving legal discrepancies from standard international laws by comparing different countries' laws with international norms. The goal is to identify differences, suggest enhancements, and discuss the implications of these deviations. Emphasis is placed on accuracy, a deep understanding of legal frameworks, and clear communication. While avoiding giving legal advice or interpretations that could be seen as practicing law, there's a strive for neutrality and factual analysis. Responses are tailored for those interested in international law, policy-making, and legal studies, aiming to provide insightful analysis based on available information and clarifying when further details are needed.
 
 Creating a custom GPT like Law Standard, focused on analyzing legal deviances from standard international laws, offers several benefits and drawbacks:
@@ -39,6 +43,13 @@ This structure enables a focused approach to analyzing French legal systems in v
  ```
 
 </details>
+
+#
+### Related Links
+
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Improvement Value](https://github.com/sourceduty/Improvement_Value)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
